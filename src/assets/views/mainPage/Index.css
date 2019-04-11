@@ -1,0 +1,7 @@
+.Index-p {
+  color: red;
+}
+.Index-body {
+  display: flex;
+  flex-direction: column;
+}
